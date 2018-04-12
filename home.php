@@ -53,7 +53,7 @@
 	<tr>
 		
 		<td colspan="2">
-			<img src="redz/25.jpg" class="propic">
+			<img src="25.jpg" class="propic">
 			<p><a href="mother.php" target="content">Isabel Coronel</a></p>
 		</td>
 	</tr>
@@ -67,27 +67,27 @@
 	<hr>
 	<tr>
 		<td>
-			<img src="redz/2.jpg" class="propic">
+			<img src="2.jpg" class="propic">
 			<p><a href="reshhe.php" target="content">Reshhe Coronel Israel</a></p>
 		</td>
 		<td>
-			<img src="redz/38.jpg" class="propic">
+			<img src="38.jpg" class="propic">
 			<p><a href="daleth.php" target="content">Daleth Pancho Coronel</a></p>
 		</td>
 		<td>
-			<img src="redz/7.jpg" class="propic">
+			<img src="7.jpg" class="propic">
 			<p><a href="jemil.php" target="content">Jemil Pancho Coronel</a></p>
 		</td>
 		<td>
-			<img src="redz/8.jpg" class="propic">
+			<img src="8.jpg" class="propic">
 			<p><a href="redagi.php" target="content">Redagi Pancho Coronel</a></p>
 		</td>
 		<td>
-			<img src="redz/12.jpg" class="propic">
+			<img src="12.jpg" class="propic">
 			<p><a href="jerard.php" target="content">Jerard Pancho Coronel</a></p>
 		</td>
 		<td>
-			<img src="redz/13.jpg" class="propic">
+			<img src="13.jpg" class="propic">
 			<p><a href="belfren.php" target="content">Belfren Pancho Coronel</a></p>
 		</td>
 	</tr>
