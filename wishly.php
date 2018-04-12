@@ -101,8 +101,8 @@
 				</table>
 			</td>
 			<td>
-				<img src="redz/1.jpg" class="propic">
-				<img src="redz/39.jpg" class="propic">
+				<img src="1.jpg" class="propic">
+				<img src="39.jpg" class="propic">
 			</td>
 		</tr>
 	</table>
