@@ -30,7 +30,7 @@
 <table>
 	<tr>
 		<td>
-			<img src="redz/logo.jpg" class="logo"/>
+			<img src="logo.jpg" class="logo"/>
 		</td>
 
 		<td>
